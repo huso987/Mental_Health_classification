@@ -6,6 +6,8 @@ This project performs sentiment analysis on mental health statements using logis
 ![image](https://github.com/user-attachments/assets/37a7f26b-2532-4698-9173-ca3dd29661fd)
 
 
+![image](https://github.com/user-attachments/assets/f097385d-a2df-47df-a167-a6ead3829991)
+
 
 
 
